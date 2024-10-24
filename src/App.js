@@ -21,9 +21,6 @@ function App() {
           <Contact />
         </section>
         <section className=" m-0 p-4"> {/* Added padding, removed margin */}
-          <Certifications />
-        </section>
-        <section className=" m-0 p-4"> {/* Added padding, removed margin */}
           <Skills />
         </section>
         <section className=" m-0 p-4"> {/* Added padding, removed margin */}
